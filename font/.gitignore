@@ -1,0 +1,15 @@
+#other
+.idea
+*.iml
+*.p12
+*.log
+logs
+dist/
+node_modules/
+.gitlab-ci.yml
+*-deploy.xml
+*-build.sh
+deploy-test.xml
+deploy-pro.xml
+deploy-dev.xml
+build.sh
